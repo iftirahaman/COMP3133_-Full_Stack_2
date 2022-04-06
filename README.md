@@ -15,5 +15,5 @@
 ###  Lab Exercise 04 <a href="https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/lab04_users_database">click here</a>
 ### Lab Exercise 05 <a href="">click here</a>
 ### Lab Exercise 06 <a href="https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/lab6_101054615">click here</a>
-### Lab Exercise 07 <a href="">https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/lab7_101054615</a>
+### Lab Exercise 07 <a href="https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/lab7_101054615">click here</a>
 ### Lab Exercise 08 <a href="">click here</a>
