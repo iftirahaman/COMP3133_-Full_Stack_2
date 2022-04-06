@@ -1,0 +1,19 @@
+  <h1 style="color: rgb(63, 121, 152);"> SpaceX Mission Details</h1>
+  <mat-card class="example-card" style="width: 50%;">
+    <mat-card-header>
+      <div mat-card-avatar class={{data.mission_name}}></div>
+      <mat-card-title>{{data.mission_name}}</mat-card-title>
+      <mat-card-subtitle>{{data.launch_year}}</mat-card-subtitle>
+    </mat-card-header>
+    <img mat-card-image src={{data.links.mission_patch_small}} alt="Photo of a Shiba Inu" style="width: 20%;">
+    <mat-card-content>
+      <p>
+        {{data.details}}
+      </p>
+    </mat-card-content>
+    <mat-card-actions>
+      <a href={{data.links.video_link}}><i class="bi bi-youtube"></i></a>  &nbsp;&nbsp;
+             <a href={{data.links.wikipedia}}><i class="bi bi-globe"></i></a>  &nbsp;&nbsp;
+             <a href={{data.article_link}}><i class="bi bi-info-square-fill"></i></a>
+    </mat-card-actions>
+  </mat-card>
