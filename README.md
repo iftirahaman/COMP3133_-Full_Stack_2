@@ -19,4 +19,4 @@
 ### Lab Exercise 05 <a href="">click here</a>
 ### Lab Exercise 06 <a href="https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/lab6_101054615"> Click here</a>
 ### Lab Exercise 07 <a href="https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/lab7_101054615"> Click here</a>
-### Lab Exercise 08 <a href=""> Click here</a>
+### Lab Exercise 08 <a href="https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/lab_8_101054615/exercise-1/student-app"> Click here</a>
