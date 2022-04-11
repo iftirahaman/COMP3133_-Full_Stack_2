@@ -6,6 +6,7 @@
 ## Lab Test
 ### Lab Test 01 <a href="https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/lab_test1_chat_app"> Click here</a>
 ### Lab Test 02 <a href="https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/101054615-lab-test2-comp3133"> Click here</a>------------------"New"
+### Screenshot <a href="https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/101054615_comp3133_assig2/101054615_comp3133_Screenshots"> Click here</a>
 
 ## Assignment
 ### Assignment 01 <a href="https://github.com/iftirahaman/COMP3133_-Full_Stack_2/tree/master/COMP3133_Assignment1"> Click here</a>
